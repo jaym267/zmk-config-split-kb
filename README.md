@@ -1,3 +1,6 @@
+<img width="1145" height="934" alt="Screenshot 2026-11-08 185243" src="https://github.com/user-attachments/assets/23d9e7d7-37c7-4098-a883-964c72dd1ada" />
+<img width="496" height="496" alt="Screenshot 2026-11-08 172515" src="https://github.com/user-attachments/assets/76084374-9194-4f78-a8be-4f27a53f11ca" />
+<img width="965" height="585" alt="Screenshot 2026-11-08 173431" src="https://github.com/user-attachments/assets/cab12672-1681-4fc9-b576-ec903252b1aa" />
 # Split-KB — Wireless Split Keyboard
 
 A low-profile wireless split keyboard with 21 Kailh Choc keys per half
