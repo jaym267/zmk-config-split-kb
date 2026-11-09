@@ -1,0 +1,16 @@
+if SHIELD_SPLIT_KB_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Julio Split"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_SPLIT_KB_LEFT || SHIELD_SPLIT_KB_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
