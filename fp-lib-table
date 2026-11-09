@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/custom.pretty")(options "")(descr "XIAO nRF52840 with bottom battery pads reachable"))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/libs/marbastlib-choc.pretty")(options "")(descr "Choc switch footprints (marbastlib)"))
+  (lib (name "panelization")(type "KiCad")(uri "${KIPRJMOD}/libs/Panelization.pretty")(options "")(descr "Mousebites"))
+)
